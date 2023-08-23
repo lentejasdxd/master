@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.contenerdor{
+background-color: black;
+color: white;
+border-style: solid;
+border-color: black;
+}
+.conteiner{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.almacen{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.alcen{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
